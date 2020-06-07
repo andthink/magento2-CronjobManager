@@ -3,6 +3,7 @@
     <module name="EthanYehuda_CronjobManager" setup_version="1.8.0" >
     	<sequence>
             <module name="Magento_Cron"/>
+            <module name="Magento_Logging"/>
         </sequence>
     </module>
 </config>
